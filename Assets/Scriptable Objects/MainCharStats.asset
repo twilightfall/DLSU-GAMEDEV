@@ -12,7 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c21667087b6faeb478235a561408b010, type: 3}
   m_Name: MainCharStats
   m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
-  Health: 480
-  Mana: 50
-  Speed: 0
-  Inventory: 000000000000000000000000
+  Health: 100
+  Speed: 50
