@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b413dae45c2f5d348b385a3796210966
+labels:
+- snaps002
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136759
+  packageName: Snaps Prototype | Sci-Fi / Industrial
+  packageVersion: 1.4
+  assetPath: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/PistonClamp_02_snaps002.prefab
+  uploadId: 372843

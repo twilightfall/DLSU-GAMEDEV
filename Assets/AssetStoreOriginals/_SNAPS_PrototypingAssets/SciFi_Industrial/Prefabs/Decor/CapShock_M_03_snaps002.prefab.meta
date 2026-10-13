@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b62f6c4e046abad4e9c399cfc1cdebae
+labels:
+- snaps002
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136759
+  packageName: Snaps Prototype | Sci-Fi / Industrial
+  packageVersion: 1.4
+  assetPath: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/CapShock_M_03_snaps002.prefab
+  uploadId: 372843

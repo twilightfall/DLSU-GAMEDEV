@@ -8,11 +8,13 @@ TagManager:
   - ENV
   - CinemachineTarget
   - Debuff
+  - Weapon
+  - Console
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 

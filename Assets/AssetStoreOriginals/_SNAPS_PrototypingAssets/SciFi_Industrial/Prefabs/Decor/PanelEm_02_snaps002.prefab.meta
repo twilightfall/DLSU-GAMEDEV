@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a1c7b462aafc94746bed4b6921516f4d
+labels:
+- snaps002
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136759
+  packageName: Snaps Prototype | Sci-Fi / Industrial
+  packageVersion: 1.4
+  assetPath: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/PanelEm_02_snaps002.prefab
+  uploadId: 372843

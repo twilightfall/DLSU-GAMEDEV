@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29af6e3703f95e74e8648b877ef2dff5
+labels:
+- snaps002
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136759
+  packageName: Snaps Prototype | Sci-Fi / Industrial
+  packageVersion: 1.4
+  assetPath: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/CabelCover_02_snaps002.prefab
+  uploadId: 372843

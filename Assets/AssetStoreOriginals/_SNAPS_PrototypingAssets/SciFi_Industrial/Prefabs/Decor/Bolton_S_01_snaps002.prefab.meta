@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0dda10dd211d514299c0d89644d400e
+labels:
+- snaps002
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136759
+  packageName: Snaps Prototype | Sci-Fi / Industrial
+  packageVersion: 1.4
+  assetPath: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Bolton_S_01_snaps002.prefab
+  uploadId: 372843

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a63de6fc2de05264ab9dea772664afac
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136759
+  packageName: Snaps Prototype | Sci-Fi / Industrial
+  packageVersion: 1.4
+  assetPath: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/Scripts/Editor/PackageChecker/settings/PackageImportList_ShaderGraph.txt
+  uploadId: 372843
